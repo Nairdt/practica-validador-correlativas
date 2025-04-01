@@ -1,3 +1,3 @@
 # practica-validador-correlativas
 
-![Diagrama](diagrama.png)
+![Diagrama](Diagrama.png)
